@@ -22,6 +22,9 @@
 - **프린스턴 LLM 강의자료**
     - https://www.cs.princeton.edu/courses/archive/fall22/cos597G/
 
+- 하버드대 Machine Learning System 교재
+    - [ML Systems Textbook](https://www.mlsysbook.ai/)
+
 ### Paper / Research / References
 
 - **Transformer study** ("A survey of Transformer" Survey 논문 base, DSBA 연구실)   
