@@ -56,6 +56,12 @@
   - https://lmarena.ai/leaderboard 
   - (or https://huggingface.co/spaces/lmarena-ai/lmarena-leaderboard)
 
+- WBA.chat
+  - [AI 모델, 누가 제일 잘하나? | WBA.chat](https://wba.chat/leaderboard)
+    
+- llm-stats
+  - [LLM Leaderboard](https://llm-stats.com/)
+
 
 ---
 
