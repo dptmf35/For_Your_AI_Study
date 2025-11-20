@@ -85,6 +85,10 @@ https://wikidocs.net/book/7888
 - **고려대학교 오승상 교수님 강화학습 강의**    
   - https://www.youtube.com/playlist?list=PLvbUC2Zh5oJtYXow4jawpZJ2xBel6vGhC
 
+- **혁펜하임 강화학습 강의**
+  - https://youtube.com/playlist?list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g&si=eMlsmTTEZh3S_Eb9
+
+
 - **Deep Reinforcement Learning** (Springer)    
   - https://arxiv.org/pdf/2201.02135
 
@@ -109,6 +113,11 @@ https://wikidocs.net/book/7888
 - **Leisaac, Lerobot**  
   - https://github.com/LightwheelAI/leisaac?tab=readme-ov-file
   - https://github.com/huggingface/lerobot
+
+- **Open-sourced VLA Models**
+  - [Physical-Intelligence] [openpi](https://github.com/Physical-Intelligence/openpi)
+  - [Huggingface] [OpenVLA](https://github.com/openvla/openvla)
+  - [Nvidia] [Isaac-Gr00t](https://github.com/NVIDIA/Isaac-GR00T)
 
 ### Isaac Sim / Isaac Lab
 
