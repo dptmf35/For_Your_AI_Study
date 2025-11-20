@@ -111,8 +111,8 @@ https://wikidocs.net/book/7888
     - https://github.com/GT-RIPL/Awesome-LLM-Robotics
 
 - **Leisaac, Lerobot**  
-  - https://github.com/LightwheelAI/leisaac?tab=readme-ov-file
-  - https://github.com/huggingface/lerobot
+  - [Leisaac](https://github.com/LightwheelAI/leisaac?tab=readme-ov-file)
+  - [Lerobot](https://github.com/huggingface/lerobot)
 
 - **Open-sourced VLA Models**
   - [Physical-Intelligence] [openpi](https://github.com/Physical-Intelligence/openpi)
@@ -121,7 +121,7 @@ https://wikidocs.net/book/7888
 
 ### Isaac Sim / Isaac Lab
 
-- **Mobile Robot Manipulation** (Isaac Sim)
+- **Mobile Robot Manipulation 예제** (Isaac Sim)
   - https://youtu.be/k4R60XoZmIE?si=IJuPMmqH4BDnAi5F
 
 
