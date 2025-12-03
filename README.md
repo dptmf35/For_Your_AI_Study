@@ -113,6 +113,8 @@ https://wikidocs.net/book/7888
 - **Leisaac, Lerobot**  
   - [Leisaac](https://github.com/LightwheelAI/leisaac?tab=readme-ov-file)
   - [Lerobot](https://github.com/huggingface/lerobot)
+  - [Lerobot - Gr00t 파인튜닝 및 적용 튜토리얼](https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning)
+  - [Lerobot - Robot Learning tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 
 - **Open-sourced VLA Models**
   - [Physical-Intelligence] [openpi](https://github.com/Physical-Intelligence/openpi)
