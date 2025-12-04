@@ -1,3 +1,8 @@
+## AI & DL & ML
+
+- **AI 면접용  Interview study**
+  - [APP Link](https://ai-learning-study-card.vercel.app/)
+
 ## LLM & Transformer
 
 ### Books
