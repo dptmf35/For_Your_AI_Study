@@ -87,6 +87,9 @@ https://wikidocs.net/book/7888
 - **해외 대학들 강화학습 강의모음**     
   - https://helpingstar.github.io/rl/RLlecture/
 
+- **스탠포드 diffusion 및 flow matching 강의**
+  - https://diffusion.csail.mit.edu/2025/index.html
+
 - **고려대학교 오승상 교수님 강화학습 강의**    
   - https://www.youtube.com/playlist?list=PLvbUC2Zh5oJtYXow4jawpZJ2xBel6vGhC
 
